@@ -14,7 +14,7 @@ This project analyzes online shopping orders and product returns using Power BI,
 
 
 
-&#x09;\* Analyze total orders, customers, revenue, and product returns.
+`&#x09;\* Analyze total orders, customers, revenue, and product returns.
 
 &#x09;\* Understand customer shopping and return behavior.
 
@@ -22,7 +22,7 @@ This project analyzes online shopping orders and product returns using Power BI,
 
 &#x09;\* Analyze revenue trends and return-related business risks.
 
-&#x09;\* Provide actionable insights to improve business performance.
+&#x09;\* Provide actionable insights to improve business performance.`
 
 
 
