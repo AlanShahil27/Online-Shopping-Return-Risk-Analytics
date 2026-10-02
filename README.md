@@ -32,7 +32,7 @@ The Power BI report includes four dashboard pages:
 ## Project Files
 
 - `Online Shopping Return Behavior & Return Risk Analytics.pbix` – Power BI report
-- `Dataset.xlsx` – Dataset used for analysis
+- `online_shopping_returns.zip` – Dataset used for analysis
 - `SQL.sql` – SQL queries used in the project
 - `Output/` – Dashboard screenshots
 
