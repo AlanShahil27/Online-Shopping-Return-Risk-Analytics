@@ -55,6 +55,25 @@ This project demonstrates how data analytics can help an online retail business 
 3. If prompted, locate the dataset and refresh the data.
 4. Explore the report pages and interactive visuals.
 
+## Dashboard Screenshots
+
+### 1. Executive Overview
+
+![Executive Overview](Dashboard%20Screenshots/Screenshot%202026-10-01%20132440.png)
+
+### 2. Customer & Order Analysis
+
+![Customer & Order Analysis](Dashboard%20Screenshots/Screenshot%202026-10-01%20132654.png)
+
+### 3. Delivery Performance
+
+![Delivery Performance](Dashboard%20Screenshots/Screenshot%202026-10-01%20132713.png)
+
+### 4. Business Insights & Actions
+
+![Business Insights & Actions](Dashboard%20Screenshots/Screenshot%202026-10-01%20132732.png)
+
+
 ## Author
 
 **Alan Shahil F**
